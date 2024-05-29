@@ -1,0 +1,12 @@
+---
+layout: post
+---
+
+Yay, would you look @ that! It is the first post.
+
+{% comment %}
+Might you have an include in your theme?
+{% include my-themes-great-include.html %}
+{% endcomment %}
+
+Awesome post.
